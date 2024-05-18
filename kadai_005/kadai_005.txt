@@ -54,4 +54,16 @@ Changes to be committed:
 PS C:\Users\Administrator\Desktop\GitHub_Tutorial\git_challenge> git commit -m "hello_world.txtの日本語を追記"
 [main 60354cc] hhello_world.txtの日本語を追記
  1 file changed, 2 insertions(+), 1 deletion(-)
-PS C:\Users\Administrator\Desktop\GitHub_Tutorial\git_challenge>   
+PS C:\Users\Administrator\Desktop\GitHub_Tutorial\git_challenge> git log
+commit 60354cc74fb5a214e48883bff6538113b69759f7 (HEAD -> main)
+Author: sjyoseishi <yiting19841104@gmail.com>
+Date:   Sat May 18 22:58:29 2024 +0900
+
+    hello_world.txtの日本語を追記
+
+commit 2d16feedee4a33cdd04d909c5dd5b357d8182887
+Author: sjyoseishi <yiting19841104@gmail.com>
+Date:   Sat May 18 22:54:48 2024 +0900
+
+    hello_world.txtをコミットする
+PS C:\Users\Administrator\Desktop\GitHub_Tutorial\git_challenge>
